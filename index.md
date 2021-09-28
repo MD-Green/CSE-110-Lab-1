@@ -2,10 +2,10 @@
 ### **UC San Diego Senior majoring in Mathematics - Computer Science**
 Born in Charlotte North Carolina, raised in Ventura California, and currently residing in Oceanside. I grew up as the middle child with two brothers and continue to stay close to my family. 
 
-<img src="29313040_10215829827488745_6904377738996482048_n.jpg" width="500"> 
+<img src="https://user-images.githubusercontent.com/72781625/135035987-513c1a27-199f-4902-ab87-7d70aafcc4b2.jpg" width="500"> 
 
 
-[Before transferring to UC San Diego I graduated from one of America's top City Colleges (Santa Barbara City College) with really good grades.](really%20good%20grades.png)
+[Before transferring to UC San Diego I graduated from one of America's top City Colleges (Santa Barbara City College) with really good grades.](https://user-images.githubusercontent.com/72781625/135036058-94941f00-e7ef-4eb9-ad90-d7ceeb4777db.png)
 
 ### **Some of my hobbies include:**
 

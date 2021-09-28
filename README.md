@@ -3,4 +3,4 @@ Matthew Green's User Page
 
 My favorite programming laguage is python becuase it's pretty neat.
 
-[GitHub Pages Link](https://md-green.github.io/CSE-110-Lab-1/#top-5-cuts-of-meat-to-barbecue)
+[GitHub Pages Link](https://md-green.github.io/CSE-110-Lab-1/)
